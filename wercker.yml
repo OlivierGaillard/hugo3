@@ -10,6 +10,6 @@ build:
   steps:
     - hugo-build:
         version: 0.14
-	bin: /usr/local/bin/hugo
+        bin: /usr/local/bin/hugo
         theme: herring-cove
-	flags: --buildDrafts=true
+        flags: --buildDrafts=true

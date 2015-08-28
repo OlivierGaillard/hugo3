@@ -1,0 +1,13 @@
+theme = "material-design"
+baseurl = "http://metacoherence.sites.djangoeurope.com/"
+languageCode = "fr-ch"
+title = "Méta-cohérence"
+description = "Méta-cohérence"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+[params]
+  date = "27.08.2015"
+  Subtitle = "Meta / Metta-cohérence"
+  AuthorName = "Olivier Gaillard"

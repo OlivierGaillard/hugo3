@@ -8,8 +8,7 @@ build:
     # Read more about steps on our dev center:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
-    - hugo-build:
+    - arjen/hugo-build:
         version: 0.14
-        bin: /usr/local/bin/hugo
         theme: herring-cove
         flags: --buildDrafts=true

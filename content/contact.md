@@ -1,15 +1,18 @@
 +++
 weight = 3
-Categories = ["pratique"]
+Categories = ["pratique", "contact"]
 Description = ""
-Tags = []
+Tags = ["adresse", "contact"]
 nodate = true
 date = "2015-08-27T15:42:48+02:00"
 title = "Contact"
 +++
+**Olivier Gaillard**
 
-J'exerce à deux endroits, Berne et Grône (VS). Je parle bien
-l'allemand.
+Lic. en philosophie et informatique.
+
+J'exerce sur Berne et en Valais. Je me déplace volontiers. Je parle
+très bien l'allemand.
 
 
 * **Berne**  
@@ -17,7 +20,7 @@ l'allemand.
   3095 Spiegel b. Bern  
   031 535 10 46<!--more-->
 
-* **Grône** (près de Sion en Valais)  
+* **Grône** (entre Sion et Sierre)  
   Pogyre 11  
   3979 Grône  
   027 458 13 19

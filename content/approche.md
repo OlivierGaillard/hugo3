@@ -3,7 +3,7 @@ weight = 1
 date = "2015-08-27T14:24:10+02:00"
 draft = true
 title = "Approche"
-tags = [ "stress", "méditation", "emotion", "metta", "HeartMath", "philosophie"]
+tags = [ "stress", "méditation", "HeartMath", "philosophie"]
 categories = [ "stress", "méditation", "philosophy" ]
 series = [ "approche" ]
 
@@ -24,11 +24,11 @@ musique, l'admiration, ou la lumière d'un sourire, peuvent nous
 offrir.
 
 HeartMath a fait des émotions l'objet principal de son programme de
-réduction du stress. Il le résume dans le leitmotiv: *Stress management
-is emotions' management*. Ils ont développé un outil de feedback
-remarquable (un capteur du pouls) pour évaluer notre état
-émotionnel. Il est ainsi possible de mesurer notre degré de détente,
-et même la qualité de notre concentration.
+réduction du stress. Il le résume dans le leitmotiv: *Stress
+management is emotions' management*. Cette entreprise a développé un
+outil de feedback remarquable (un capteur du pouls) pour évaluer notre
+état émotionnel. Il est ainsi possible de mesurer notre degré de
+détente, la qualité de notre concentration.
 
 Je propose une approche des techniques de réduction du stress de
 HeartMath enrichie par ma connaissance de la méditation, et renforcée

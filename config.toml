@@ -1,4 +1,4 @@
-theme = "material-design"
+theme = "herring-cove"
 baseurl = "http://metacoherence.sites.djangoeurope.com/"
 languageCode = "fr-ch"
 title = "Méta-cohérence"
